@@ -39,29 +39,3 @@
     <li>$ pwd : mengetahui direktori tempat kita berada sekarang</li>
     <li>$ ls : mengetahui ada file/folder apa saja dalam suatu folder</li>
 </ul>
-
-
-
-<p>
-Praktik:
-
-1. Menjadikan suatu folder jadi repo git => bikin folder manual, inisiasi folder tsb pake git init
-
-2. Edit file di lokal => b aja kek biasa
-
-3. Menggunakan git status untuk mengetahui : kita di branch mana, udh ada commit kah, sm yg paling penting tracking files
-
-4. Biar perubahan di file tadi disimpan sama git, kita harus simpan file ke staging area (pake git add)
-
-5. ada command git juga buat keluarin file ke staging area
-
-6. Untuk nyimpan perubahan ke history, lakukan commit, tapi sebelum commit, kita harus konfigurasi identitas kita pake git config sintaksnya:
-
-git config --globar user.email "emailnya" atau
-
-7. baru commit pake command git commit
-
-
-
-
-</p>
