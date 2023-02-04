@@ -60,8 +60,7 @@
 </ul>
 
 
-<p>
-Main - mainin branch, kek buat branch, pindah, commit di brnach itu, cek perubahan nya keliatan gk di branch lain.
+<h3>Berikut adalah link berisi screenshot bukti percobaan menggunakan git:</h3>
+<p>https://drive.google.com/drive/folders/1IjZcOW2IdtqNSG77HAtKil9T4kcBxvB4?usp=share_link</p>
 
-</p>
 

@@ -39,3 +39,7 @@
     <li>$ pwd : mengetahui direktori tempat kita berada sekarang</li>
     <li>$ ls : mengetahui ada file/folder apa saja dalam suatu folder</li>
 </ul>
+
+
+<h3>Berikut adalah link berisi screenshot bukti percobaan menggunakan git:</h3>
+<p>https://drive.google.com/drive/folders/1yy3flX6G7kKzxnELZin0XaNFwGNs-yR5?usp=share_link</p>

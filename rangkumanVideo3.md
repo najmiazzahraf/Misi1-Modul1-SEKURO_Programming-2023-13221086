@@ -31,3 +31,5 @@
 </ul>
 
 
+<h3>Berikut adalah link berisi screenshot bukti percobaan menggunakan git:</h3>
+<p>https://drive.google.com/drive/folders/11Y_Zok-mYQF2Zq6D0FI5p6tRXNTw1MYJ?usp=share_link</p>
