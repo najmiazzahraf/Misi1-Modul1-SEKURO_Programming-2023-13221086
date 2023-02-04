@@ -18,8 +18,6 @@
         <li>Memungkinkan kita untuk kembali ke keadaan sebelum perubahan.</li>
         </ol> 
     </li>
-    <li> </li>
-    <li> </li>
 </ul>
 
 <h3>Git</h3>
@@ -53,7 +51,7 @@
     </li>
      <li>Flow kerja yang diharapkan dengan github : 
         <ol>
-            <li>Membuat repo di github</li>\
+            <li>Membuat repo di github</li>
             <li>Clone repo dari github ke lokal, di folder yang kita inginkan</li>
             <li>Commit setiap perubahan pada kode</li>
             <li>Jika sudah selesai lakukan push</li> 
